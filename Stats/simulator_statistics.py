@@ -145,7 +145,7 @@ for filename in glob.glob('*.csv'):
 			speed2_arr.append(float(s2))
 			dir2_arr.append(float(d2))
 			#Change c1 value with car 1 ID and c2 value with car 2 ID
-			if(c1 == 481  and c2 == 529):
+			if(c1 == 333  and c2 == 1233):
 				groundtruthscene = []
 				groundtruthscene.append(c1)
 				groundtruthscene.append(float(x1))
